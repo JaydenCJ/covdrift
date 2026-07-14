@@ -1,0 +1,14 @@
+# build artifacts
+/covdrift
+/dist/
+
+# test and coverage output
+*.test
+*.out
+coverage-diff.md
+
+# editor noise
+.idea/
+.vscode/
+*.swp
+.DS_Store
